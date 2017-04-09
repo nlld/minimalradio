@@ -1,0 +1,1597 @@
+@font-face {
+    font-family: skyfall;
+    src: url(skyfall.ttf);
+}
+
+html {
+    color: #000;
+    background: #FFF
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset,
+img {
+    border: 0
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+    font-style: normal;
+    font-weight: normal
+}
+
+ol,
+ul {
+    list-style: none
+}
+
+caption,
+th {
+    text-align: left
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+q:before,
+q:after {
+    content: ''
+}
+
+abbr,
+acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: text-top
+}
+
+sub {
+    vertical-align: text-bottom
+}
+
+input,
+textarea,
+select {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit
+}
+
+input,
+textarea,
+select {
+    *font-size: 100%
+}
+
+legend {
+    color: #000
+}
+
+#yui3-css-stamp.cssreset {
+    display: none
+}
+
+* {
+    font-family: Arial, Verdana;
+}
+
+html,
+body {
+    overflow: hidden;
+    width: 504px;
+    position: relative;
+    background: transparent;
+    font-family: sans-serif;
+}
+
+.hidden {
+    display: none;
+    overflow: hidden;
+    width: 0px;
+    height: 0px;
+    position: abolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+@font-face {
+    font-family: 'skyfall';
+    src: url(skyfall.ttf);
+    src: url(skyfall.ttf) format('embedded-opentype'), url(/i/fonts/pfdintextpro-bold-webfont.woff) format('woff'), url(/i/fonts/pfdintextpro-bold-webfont.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_dintext_pro';
+    src: url(/i/fonts/pfdintextpro-regular-webfont.eot);
+    src: url(/i/fonts/pfdintextpro-regular-webfont.eot?#iefix) format('embedded-opentype'), url(/i/fonts/pfdintextpro-regular-webfont.woff) format('woff'), url(/i/fonts/pfdintextpro-regular-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_dintext_pro';
+    src: url(/i/fonts/pfdintextpro-thin-webfont.eot);
+    src: url(/i/fonts/pfdintextpro-thin-webfont.eot?#iefix) format('embedded-opentype'), url(/i/fonts/pfdintextpro-thin-webfont.woff) format('woff'), url(/i/fonts/pfdintextpro-thin-webfont.ttf) format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    src: local('skyfall.ttf'), url(skyfall.ttf) format('embedded-opentype'), url(skyfall.ttf) format('ttf'), url(skyfall.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'skyfall';
+    font-style: normal;
+    font-weight: normal;
+    src: local('skyfall.ttf'), url(skyfall.ttf) format('embedded-opentype'), url(skyfall.ttf) format('ttf'), url(skyfall.ttf) format('truetype');
+}
+
+.dintext-font {
+    font-family: pf_dintext_pro;
+}
+
+.block-header {
+    display: block;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    cursor: pointer;
+    /* padding:10px 15px; */
+    text-transform: uppercase;
+    font-size: 18px;
+    margin: 0px;
+    /* background-color:#fff; */
+    color: #fdfdfd;
+}
+
+.block-header i {
+    margin-right: 12px;
+    font-size: 20px;
+    color: #00d8ff;
+    .block-headeri {
+        margin-right: 12px;
+        font-size: 20px;
+        color: #00d8ff;
+    }
+    .block-headeri {
+        margin-right: 12px;
+        font-size: 20px;
+        color: #00d8ff;
+    }
+    .block-headeri {
+        margin-right: 12px;
+        font-size: 20px;
+        color: #00d8ff;
+    }
+    .block-headeri {
+        margin-right: 12px;
+        font-size: 20px;
+        color: #00d8ff;
+    }
+    .block-headeri {
+        margin-right: 12px;
+        font-size: 20px;
+        color: #00d8ff;
+    }
+    -webkit-app-region: no-drag;
+    -webkit-app-region: no-drag;
+}
+
+.block-header:hover {}
+
+.block-header:hover i {
+    color: #6be8ff;
+}
+
+.radio {
+    width: 85px;
+    height: 394px;
+    /* background-color:#cfdbe9; */
+    vertical-align: top;
+    padding-top: 0px;
+    overflow: scroll;
+    float: right;
+    padding-right: 5px;
+    border-radius: 50px;
+    /* box-shadow: inset 0px 1px 20px 3px; */
+}
+
+.radio .station {
+    width: 72px;
+    height: 72px;
+    background-color: white;
+    float: right;
+    box-shadow: 1px 1px 1px #b6c1d0;
+    margin: 5px;
+    cursor: pointer;
+    color: #fff;
+    /* border-radius: 50px; */
+    opacity: 0.7;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 10px;
+}
+
+.radio .station.active {
+    background-color: #6b7891;
+    background-image: url('ug.png');
+    background-position: 106% 150%;
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 14px 0px #000;
+}
+
+.radio .station.active2 {
+    background-color: #6b7891;
+    background-image: url('ug.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+.radio .station.active .station-name {
+    color: white!important;
+}
+
+.radio .station.active2 .station-name {
+    color: white!important;
+}
+
+.radio .station .station-img {
+    width: 63px;
+    height: 63px;
+    background-image: url('img/sprite2.jpg');
+    margin: 5px;
+    float: left;
+    /* border-radius: 50px; */
+    border-top-right-radius: 26px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 10px;
+}
+
+.radio .station .station-name {
+    color: #4e4e4e;
+    font-size: 0px;
+    font-family: Arial;
+    display: block;
+    overflow: hidden;
+    line-height: 16px;
+}
+
+.radio .station .station-prod {
+    color: #bec0c5;
+    font-size: 9px;
+}
+
+.radio .station .station-text {
+    height: 67px;
+    display: none;
+    vertical-align: middle;
+}
+
+.radio .station .station-track {
+    color: #B8B8B8;
+    font-size: 9px;
+    display: block;
+    width: 121px;
+    max-height: 30px;
+    overflow: hidden;
+    line-height: 10px;
+}
+
+.pole_content .history {
+    overflow: hidden;
+    overflow-y: auto;
+    float: left;
+    width: 672px;
+    display: none;
+    max-height: 401px;
+}
+
+.pole_content .history a {
+    color: #434343;
+    display: block;
+    background-image: url('http://i.radiorecord.ru/img/rr/top100/play.png');
+    background-repeat: no-repeat;
+    text-decoration: none;
+    background-position: 7px center;
+    padding-left: 36px;
+}
+
+.pole_content .history .history_media:nth-child(odd) {
+    background-color: #e2edf3;
+}
+
+.pole_content .history .history_media:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.pole_content .history .history_media.active a {
+    background-image: url('img/pause.png');
+}
+
+.pole_content .history .history_media {
+    height: 35px;
+    width: 655px;
+    line-height: 35px;
+}
+
+.pole_content .history .history_media .histogram_top {
+    z-index: 3;
+    position: relative;
+    width: 0px;
+    height: 35px;
+    background-color: #8da3af;
+    margin-top: -35px;
+    margin-left: 34px;
+    visibility: hidden;
+}
+
+.pole_content .history .history_media .text_info {
+    z-index: 4;
+    position: relative;
+    width: 575px;
+    height: 35px;
+    margin-top: -35px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.pole_content .history .history_media .text_info .top100_pos {
+    margin-left: 3px;
+    font-weight: bold;
+    margin-right: 40px;
+    width: 25px;
+    text-align: center;
+    display: block;
+    float: left;
+}
+
+.pole_content .history .history_media .histogram_clickable {
+    z-index: 5;
+    position: relative;
+    width: 620px;
+    height: 35px;
+    margin-top: -35px;
+    margin-left: 34px;
+    display: none;
+}
+
+.pole_content .history .history_media .nowseconds {
+    z-index: 4;
+    position: relative;
+    width: 100px;
+    height: 35px;
+    margin-top: -35px;
+    margin-left: 578px;
+    display: none;
+}
+
+.pole_content .history .history_media.active .text_info {
+    font-weight: bold;
+}
+
+.pole_content .history .history_media.active .histogram_top {
+    visibility: visible;
+}
+
+.pole_content .history .history_media.active .histogram_clickable {
+    display: block;
+    background-image: url('player_click.gif');
+    background-repeat: repeat-y;
+    background-position: -1px 0px;
+}
+
+.pole_content .history .history_media.active .nowseconds {
+    display: block;
+}
+
+.pole_content .history .history-dates {
+    display: block;
+    position: relative;
+    float: left;
+    color: #274468;
+    margin-left: 105px;
+    position: absolute;
+    margin-top: 44px;
+}
+
+.pole_content .history .history-dates .ch_date {
+    float: left;
+    cursor: pointer;
+    padding: 2px 6px;
+    margin: 0 3px;
+    opacity: 0.6;
+}
+
+.pole_content .history .history-dates .ch_date.active {
+    font-weight: bold;
+    opacity: 1;
+}
+
+.pole_content .history .history-dates .ch_date:hover {
+    opacity: 1;
+}
+
+.pole_content .top100 {
+    overflow: hidden;
+    overflow-y: auto;
+    float: left;
+    width: 672px;
+    display: none;
+    max-height: 401px;
+}
+
+.pole_content .top100 a {
+    color: #434343;
+    display: block;
+    white-space: nowrap;
+    background-image: url('http://i.radiorecord.ru/img/rr/top100/play.png');
+    background-repeat: no-repeat;
+    text-decoration: none;
+    background-position: 31px center;
+}
+
+.pole_content .top100 .top100_media:nth-child(odd) {
+    background-color: #e2edf3;
+}
+
+.pole_content .top100 .top100_media:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.pole_content .top100 .top100_media.active a {
+    background-image: url('img/pause.png');
+}
+
+.pole_content .top100 .top100_media {
+    height: 35px;
+    width: 655px;
+    line-height: 35px;
+}
+
+.pole_content .top100 .top100_media .histogram_top {
+    z-index: 3;
+    position: relative;
+    width: 0px;
+    height: 35px;
+    background-color: #8da3af;
+    margin-top: -35px;
+    margin-left: 60px;
+    visibility: hidden;
+}
+
+.pole_content .top100 .top100_media .text_info {
+    z-index: 4;
+    position: relative;
+    width: 600px;
+    height: 35px;
+    margin-top: -35px;
+}
+
+.pole_content .top100 .top100_media .text_info .top100_pos {
+    margin-left: 3px;
+    font-weight: bold;
+    margin-right: 40px;
+    width: 25px;
+    text-align: center;
+    display: block;
+    float: left;
+}
+
+.pole_content .top100 .top100_media .histogram_clickable {
+    z-index: 5;
+    position: relative;
+    width: 595px;
+    height: 35px;
+    margin-top: -35px;
+    margin-left: 60px;
+    display: none;
+}
+
+.pole_content .top100 .top100_media .nowseconds {
+    z-index: 4;
+    position: relative;
+    width: 100px;
+    height: 35px;
+    margin-top: -35px;
+    margin-left: 578px;
+    display: none;
+}
+
+.pole_content .top100 .top100_media.active .text_info {
+    font-weight: bold;
+}
+
+.pole_content .top100 .top100_media.active .histogram_top {
+    visibility: visible;
+}
+
+.pole_content .top100 .top100_media.active .histogram_clickable {
+    display: block;
+    background-image: url('player_click.gif');
+    background-repeat: repeat-y;
+    background-position: -1px 0px;
+}
+
+.pole_content .top100 .top100_media.active .nowseconds {
+    display: block;
+}
+
+.pole_content .playlists li {
+    cursor: pointer;
+    display: block;
+    float: left;
+    width: 352px;
+    height: 67px;
+    background-color: white;
+    box-shadow: 1px 1px 1px #b6c1d0;
+    margin: 2px;
+    background-image: url('arrow.png');
+    background-repeat: no-repeat;
+    background-position: 325px 23px;
+}
+
+.pole_content .playlists li span.img {
+    display: block;
+    float: left;
+    margin: 6px;
+}
+
+.pole_content .playlists li a.playlist-title {
+    text-decoration: none;
+    color: #2d3449;
+    font-size: 16px;
+    line-height: 64px;
+}
+
+.pole_content .playlist-detail a {
+    display: block;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background-image: url('img/play.png');
+    background-repeat: no-repeat;
+    background-position: 4px 3px;
+    width: 306px;
+    height: 40px;
+    background-color: white;
+    box-shadow: 1px 1px 1px #b6c1d0;
+    margin: 2px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #2d3449;
+    padding-left: 46px;
+}
+
+.pole_content .playlist-detail a.playing {
+    background-image: url('pause.png');
+    background-position: 4px 4px;
+}
+
+.pole_reklama {
+    cursor: pointer;
+    background-color: #ffc000;
+    padding: 2px 14px;
+    font-weight: bold;
+    height: 34px;
+    vertical-align: top;
+    line-height: 36px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.pole_reklama .content {
+    overflow: hidden;
+    height: 36px;
+}
+
+.pole_reklama .content a {
+    color: black;
+    background-image: url('img/right-banner.png');
+    background-position: right center;
+    background-repeat: no-repeat;
+    padding-right: 16px;
+    height: 36px;
+    display: block;
+    float: left;
+}
+
+.pole_reklama .content a:visited {
+    color: black;
+}
+
+.playlist-zag {
+    overflow: hidden;
+    padding-bottom: 6px;
+    position: fixed;
+    background-color: #cfdbe9;
+    width: 655px;
+    box-shadow: 0px 2px 4px #b8c3cf;
+    z-index: 20;
+}
+
+.history-img {
+    margin-top: 8px;
+    border: 5px white solid;
+    width: 84px;
+    height: 53px;
+    float: left;
+    background-image: url('img/sprite.jpg');
+}
+
+.playlist-img {
+    margin-top: 8px;
+    border: 5px white solid;
+    width: 84px;
+    height: 53px;
+    float: left;
+    background-image: url('img/sprite.jpg');
+}
+
+.vkla.history .playlist-nazva {
+    float: left;
+    line-height: 43px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.vkla.top100 .playlist-nazva {
+    float: left;
+    line-height: 80px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.backlink,
+.backlink_hh,
+.backlink_top100,
+.date_hh {
+    float: right;
+    margin-top: 25px;
+    margin-right: 14px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background: #DCDCDC;
+    background: -o-linear-gradient(90deg, #ddd, #fdfdfd);
+    background: -moz-linear-gradient(90deg, #ddd, #fdfdfd);
+    background: -webkit-linear-gradient(90deg, #ddd, #fdfdfd);
+    background: linear-gradient(0deg, #ddd, #fdfdfd);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .3);
+}
+
+.backlink_hh {
+    margin-top: 6px;
+}
+
+.backlink:hover,
+.backlink_hh:hover,
+.backlink_top100:hover,
+.date_hh:hover {
+    background: #eee;
+    background: -o-linear-gradient(90deg, #ccc, #F1F1F1);
+    background: -moz-linear-gradient(90deg, #ccc, #F1F1F1);
+    background: -webkit-linear-gradient(90deg, #ccc, #F1F1F1);
+    background: linear-gradient(0deg, #ccc, #F1F1F1);
+}
+
+.backlink:active,
+.backlink_hh:active,
+.backlink_top100:active,
+.date_hh:active {
+    background: #DCDCDC;
+    background: -o-linear-gradient(270deg, #BCBBBB, #eee);
+    background: -moz-linear-gradient(270deg, #BCBBBB, #eee);
+    background: -webkit-linear-gradient(270deg, #BCBBBB, #eee);
+    background: linear-gradient(180deg, #BCBBBB, #eee);
+}
+
+.date_hh {
+    float: left;
+    width: 90px;
+    margin-top: 38px;
+    margin-left: -148px;
+    position: relative;
+}
+
+.ui-datepicker-trigger {
+    float: left;
+    position: relative;
+    margin-top: 44px;
+    margin-left: -59px;
+}
+
+.grey-pod {
+    background-color: #597da3;
+    text-align: center;
+    width: 209px;
+    padding: 5px;
+    margin-right: 2px;
+    margin-top: 41px;
+    position: relative;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 11px;
+    color: white;
+    float: right;
+}
+
+.grey-pod:hover {
+    background-color: #6286ac;
+}
+
+div.volume {
+    position: absolute;
+    width: 82px;
+    height: 18px;
+    z-index: 4;
+}
+
+div.volume_slider {
+    width: 82px;
+    height: 18px;
+    cursor: hand;
+}
+
+div.volume_fun {
+    width: 94px;
+    height: 18px;
+    float: right;
+    margin-left: 9px;
+    position: relative;
+    margin-top: 36px;
+}
+
+div.volume_fun div.volume_back_very_fake {
+    position: absolute;
+    width: 82px;
+    height: 4px;
+    z-index: 2;
+    background-color: #8599b1;
+    border-radius: 2px;
+    margin-top: 7px;
+}
+
+div.volume_fun div.volume_back_fake {
+    position: absolute;
+    height: 18px;
+    z-index: 2;
+    background-image: url('img/vol_dot.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-left: -6px;
+    width: 90px;
+}
+
+div.volume_fun div.volume_back {
+    position: absolute;
+    width: 82px;
+    height: 18px;
+    z-index: 3;
+}
+
+#rr {}
+
+#rr .station-img {
+    background-position: -5px 0px;
+}
+
+#tm {}
+
+#tm .station-img {
+    background-position: -84px 0px;
+}
+
+#club {}
+
+#club .station-img {
+    background-position: -840px 0px;
+}
+
+#ps {}
+
+#ps .station-img {
+    background-position: -168px 0px;
+}
+
+#vip {}
+
+#vip .station-img {
+    background-position: -252px 0px;
+}
+
+#teo {}
+
+#teo .station-img {
+    background-position: -336px 0px;
+}
+
+#dc {}
+
+#dc .station-img {
+    background-position: -420px 0px;
+}
+
+#brks {}
+
+#brks .station-img {
+    background-position: -504px 0px;
+}
+
+#chil {}
+
+#chil .station-img {
+    background-position: -588px 0px;
+}
+
+#dub {}
+
+#dub .station-img {
+    background-position: -672px 0px;
+}
+
+#deep {}
+
+#deep .station-img {
+    background-position: -1344px 0px;
+}
+
+#sd90 {}
+
+#sd90 .station-img {
+    background-position: -756px 0px;
+}
+
+#sd90 .station-name {
+    font-size: 12px;
+}
+
+#rus {}
+
+#rus .station-img {
+    background-position: -1176px 0px;
+}
+
+#pump {}
+
+#pump .station-img {
+    background-position: -1092px 0px;
+}
+
+#mdl {}
+
+#mdl .station-img {
+    background-position: -924px 0px;
+}
+
+#gop {}
+
+#gop .station-img {
+    background-position: -1008px 0px;
+}
+
+#yo {}
+
+#yo .station-img {
+    background-position: -1260px 0px;
+}
+
+#trap {}
+
+#trap .station-img {
+    background-position: -1428px 0px;
+}
+
+#rock {}
+
+#rock .station-img {
+    background-position: -1512px 0px;
+}
+
+.inner_pl {
+    position: absolute;
+    top: 0px;
+    width: 354px;
+    height: 428px;
+    overflow: hidden;
+    /* background-color:#b1c7dd; */
+    top: 42px;
+    left: 680px;
+}
+
+.bigimage {
+    width: 340px;
+    height: 363px;
+    float: left;
+    overflow: hidden;
+    background-image: url('station_logo_pic.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-right-radius: 82px;
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 82px;
+    border-bottom-right-radius: 26px;
+    margin-bottom: 8px;
+    box-shadow: 4px 3px 12px 0px;
+    opacity: 0.9;
+}
+
+.bigimage .imgcontent {
+    width: 100%;
+    height: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.right_pl {
+    width: 340px;
+    height: 363px;
+    float: left;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+}
+
+.right_pl .tabs {
+    overflow: hidden;
+    background-color: #b1c7dd;
+    height: 47px;
+}
+
+.right_pl .tabs div {
+    float: left;
+    background-color: #667f9e;
+    overflow: hidden;
+    height: 46px;
+    line-height: 48px;
+    width: 50%;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.right_pl .tabs div.active {
+    background-color: #b1c7dd;
+}
+
+.right_pl .tabs div#tabtop100 {}
+
+.right_pl .tabs div#tabtop100 span.dintext-font {
+    height: 17px;
+    background-position: 0px -31px;
+    margin-left: 10px;
+    background-image: url('tabicon.png');
+    padding-left: 20px;
+    background-repeat: no-repeat;
+}
+
+.right_pl .tabs div#tabtop100.active span.dintext-font {
+    background-position: 0px 0px;
+}
+
+.right_pl .tabs div#tabhistor {}
+
+.right_pl .tabs div#tabhistor span.dintext-font {
+    height: 17px;
+    background-position: -161px -31px;
+    margin-left: 10px;
+    background-image: url('tabicon.png');
+    padding-left: 20px;
+    background-repeat: no-repeat;
+}
+
+.right_pl .tabs div#tabhistor.active span.dintext-font {
+    background-position: -161px 0px;
+}
+
+.right_pl .tab_content {
+    width: 332px;
+    height: 312px;
+    background-color: #b1c7dd;
+    overflow-y: scroll;
+    margin: 4px;
+}
+
+.right_pl .tab_content .top100_media {
+    height: 49px;
+    background-color: white;
+}
+
+.right_pl .tab_content .top100_media:nth-child(odd) {
+    background-color: #e0e9f1;
+}
+
+.right_pl .tab_content .top100_media .text_info {
+    height: 100%;
+    z-index: 5;
+    position: relative;
+}
+
+.right_pl .tab_content .top100_media .text_info .top100_pos {
+    width: 26px;
+    text-align: center;
+    display: block;
+    float: left;
+    line-height: 49px;
+    font-weight: bold;
+    color: #283b53;
+    font-size: 13px;
+}
+
+.right_pl .tab_content .top100_media .text_info a.sm2_link {
+    background-image: url('play_pause_top100.png');
+    background-repeat: no-repeat;
+    font-size: 11px;
+    color: #283b53;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 270px;
+    height: 29px;
+    display: block;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    background-position: 0px 14px;
+    padding: 10px 0px 10px 19px;
+}
+
+.right_pl .tab_content .top100_media .text_info a.sm2_link.playing {
+    background-position: 0px -54px;
+}
+
+.right_pl .tab_content .top100_media .text_info a.sm2_link span.top100_artist {
+    font-weight: bold;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.right_pl .tab_content .top100_media .text_info a.sm2_link span.top100_title {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.right_pl .tab_content .top100_media.active .histogram_back_load {
+    height: 2px;
+    position: absolute;
+    background-color: #b6cad8;
+    z-index: 4;
+    margin-top: 47px;
+    transition: all 0.1s ease;
+}
+
+.right_pl .tab_content .top100_media.active:hover .histogram_back_load {
+    height: 10px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .top100_media.active .histogram_back {
+    height: 2px;
+    position: absolute;
+    background-color: #456287;
+    z-index: 5;
+    margin-top: 47px;
+    transition: all 0.1s ease;
+}
+
+.right_pl .tab_content .top100_media.active:hover .histogram_back {
+    height: 10px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .top100_media.active .histogram_top {
+    height: 10px;
+    position: absolute;
+    width: 323px;
+    z-index: 6;
+    display: none;
+    background-image: url('img/player_click.gif');
+    background-repeat: repeat-y;
+    background-position: -1px 0px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .top100_media.active:hover .histogram_top {}
+
+.right_pl .tab_content .history_media {
+    height: 49px;
+    background-color: white;
+}
+
+.right_pl .tab_content .history_media:nth-child(odd) {
+    background-color: #e0e9f1;
+}
+
+.right_pl .tab_content .history_media .text_info {
+    height: 100%;
+    z-index: 5;
+    position: relative;
+}
+
+.right_pl .tab_content .history_media .text_info .history_time {
+    width: 58px;
+    text-align: center;
+    display: block;
+    float: left;
+    line-height: 49px;
+    color: #283b53;
+    font-size: 11px;
+}
+
+.right_pl .tab_content .history_media .text_info a.sm2_link {
+    background-image: url('play_pause_top100.png');
+    background-repeat: no-repeat;
+    font-size: 11px;
+    color: #283b53;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 236px;
+    height: 29px;
+    display: block;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    background-position: 0px 14px;
+    padding: 10px 0px 10px 19px;
+}
+
+.right_pl .tab_content .history_media .text_info a.sm2_link.playing {
+    background-position: 0px -54px;
+}
+
+.right_pl .tab_content .history_media .text_info a.sm2_link span.history_artist {
+    font-weight: bold;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.right_pl .tab_content .history_media .text_info a.sm2_link span.history_title {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.right_pl .tab_content .history_media.active .histogram_back_load {
+    height: 2px;
+    position: absolute;
+    background-color: #b6cad8;
+    z-index: 4;
+    margin-top: 47px;
+    transition: all 0.1s ease;
+}
+
+.right_pl .tab_content .history_media.active:hover .histogram_back_load {
+    height: 10px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .history_media.active .histogram_back {
+    height: 2px;
+    position: absolute;
+    background-color: #456287;
+    z-index: 5;
+    margin-top: 47px;
+    transition: all 0.1s ease;
+}
+
+.right_pl .tab_content .history_media.active:hover .histogram_back {
+    height: 10px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .history_media.active .histogram_top {
+    height: 10px;
+    position: absolute;
+    width: 323px;
+    z-index: 6;
+    display: none;
+    background-image: url('img/player_click.gif');
+    background-repeat: repeat-y;
+    background-position: -1px 0px;
+    margin-top: 39px;
+}
+
+.right_pl .tab_content .history_media.active:hover .histogram_top {}
+
+.daytabs {
+    overflow: hidden;
+}
+
+.daytabs .aday {
+    float: left;
+    cursor: pointer;
+    font-size: 12px;
+    width: 25%;
+    color: #69809c;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.daytabs .aday.active {
+    color: #2a3b5a;
+    font-weight: bold;
+}
+
+.pl_bot {
+    width: 340px;
+    position: absolute;
+    height: 70px;
+    clear: both;
+    /* background-color:#1b1b1b; */
+}
+
+.pl_controlls {
+    width: 142px;
+    height: 65px;
+    float: left;
+    /* position: absolute; */
+}
+
+.pl_controlls .play_pause {
+    cursor: pointer;
+    width: 54px;
+    height: 51px;
+    float: left;
+    background-image: url('player_line_but_min.png');
+    background-repeat: no-repeat;
+}
+
+.pl_controlls .play_pause.playing {
+    background-position: 0 -59px;
+}
+
+.pl_controlls .play_pause.noready {
+    background-position: 0 -118px!important;
+}
+
+.pl_controlls .volume {
+    width: 21px;
+    height: 59px;
+    background-image: url('vol_back.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 55px;
+}
+
+.pl_controlls .volume .vol_zapo {
+    position: absolute;
+    width: 21px;
+    height: 59px;
+    background-image: url('vol_zapo.png');
+    background-position: top center;
+    background-repeat: repeat-y;
+}
+
+.pl_controlls .volume .vol_razd {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('vol_back.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 2px #a6a5a5 solid;
+    margin-left: 1px;
+}
+
+.pl_controlls .volume .vol_clickable {
+    position: absolute;
+    width: 20px;
+    height: 59px;
+    margin-left: 1px;
+}
+
+.pl_controlls .bitrate {
+    float: left;
+    width: 62px;
+    height: 59px;
+    margin-left: 24px;
+    border-right: 1px #323232 solid;
+}
+
+.pl_controlls .bitrate div {
+    cursor: pointer;
+    width: 44px;
+    height: 15px;
+    background-image: url('bitrate.png');
+    background-repeat: no-repeat;
+    margin: 3px 10px;
+}
+
+.pl_controlls .bitrate div.l32 {
+    background-position: -57px 0px;
+}
+
+.pl_controlls .bitrate div.l64 {
+    background-position: -57px -21px;
+}
+
+.pl_controlls .bitrate div.l128 {
+    background-position: -57px -41px;
+}
+
+.pl_controlls .bitrate div.l32.active {
+    background-position: 0px 0px;
+}
+
+.pl_controlls .bitrate div.l64.active {
+    background-position: 0px -21px;
+}
+
+.pl_controlls .bitrate div.l128.active {
+    background-position: 0px -41px;
+}
+
+.nowtrack_line {
+    float: right;
+    overflow: hidden;
+    width: 536px;
+}
+
+.nowtrack_line .nowtrack {
+    width: 480px;
+    height: 59px;
+    overflow: hidden;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.nowtrack_line .nowtrack span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.nowtrack_line .nowtrack .artist {
+    display: block;
+    color: #9b9b9b;
+    padding-left: 16px;
+    margin-top: 15px;
+    line-height: 15px;
+    margin-left: 6px;
+    background-image: url('mus_icon.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.nowtrack_line .nowtrack .title {
+    display: block;
+    color: #d5d5d5;
+    padding-left: 16px;
+    margin-left: 6px;
+}
+
+.nowtrack_line .line_buttons {
+    overflow: hidden;
+    float: right;
+}
+
+.nowtrack_line .line_buttons div {
+    background-image: url('line_buttons.png');
+    height: 30px;
+    float: left;
+    margin-top: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.nowtrack_line .line_buttons .vk_add {
+    width: 43px;
+    background-position: -70px 0px;
+}
+
+.nowtrack_line .line_buttons .vk_add:hover {
+    background-position: -70px -30px;
+}
+
+#nowtrack .back {
+    width: 256px;
+    height: 59px;
+    position: relative;
+    float: right;
+    border-left: 1px #323232 solid;
+}
+
+.ui-datepicker {
+    width: 216px;
+    overflow: hidden;
+    height: auto;
+    padding: 0;
+    display: none;
+    z-index: 5;
+    position: absolute;
+    border-radius: 0px;
+    font-family: Trebuchet MS, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+div.head div.head_top div.search div.search_place span.ui-datepicker-year {
+    display: none;
+    visibility: hidden;
+    position: absolute;
+}
+
+.ui-datepicker .ui-datepicker-header {
+    background: none;
+    background-color: #121927;
+    background-image: url('http://history.radiorecord.ru/img/ui-datepicker-header2.png');
+    border: none;
+    padding: 0;
+    border-radius: 0px;
+}
+
+.ui-datepicker-title {
+    width: 217px;
+    height: 35px;
+    margin: 0!important;
+    line-height: 34px!important;
+}
+
+.ui-datepicker table {
+    margin: 0;
+    background-color: #1f2737;
+    color: #ABB5C7
+}
+
+#search_calendar>.ui-widget-content {
+    color: #ABB5C7;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    border: none;
+}
+
+.ui-datepicker table thead {
+    margin: 0;
+    background-color: #121927;
+}
+
+.ui-datepicker td {
+    width: 30px;
+    height: 30px;
+    border: 1px #1f2737 solid;
+}
+
+.ui-datepicker td.ui-datepicker-other-month {
+    background-color: #1f2737;
+}
+
+.ui-datepicker td.ui-datepicker-other-month a {
+    color: #9da7af;
+}
+
+.ui-datepicker td span,
+.ui-datepicker td a {
+    padding: 0;
+    text-align: center;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    background: none;
+    color: #3b4351;
+}
+
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next {
+    top: 6px;
+}
+
+#search_calendar>.ui-widget-content a {
+    color: #ABB5C7;
+}
+
+.ui-datepicker td.ui-datepicker-other-month a {
+    color: #3b4351;
+}
+
+#search_calendar>.ui-widget-content {
+    box-shadow: 0px 0px 11px 1px #1F2737;
+    border: 1px solid #1F2737;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    color: #ABB5C7;
+}
+
+.ui-state-hover .ui-icon,
+.ui-state-focus .ui-icon {
+    background-image: url(images/ui-icons_999999_256x240.png);
+}
+
+.icon-player-block-undock {
+    width: 16px;
+    height: 16px;
+    background-image: url('img/open_icon.png');
+    float: right;
+    margin-top: 3px;
+}
+
+.icon-player-block-undock:hover {
+    opacity: 0.6;
+}
+
+td.pole_content {
+    width: 457px;
+}
+
+.titlebar {
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+}
+
+.radio .station:onhover {
+    opacity: 1;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}

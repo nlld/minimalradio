@@ -1,0 +1,1499 @@
+<div class="top100_media" mid="top1">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">1</span>
+		<a id="top1" href="http://78.140.251.40/tmp_audio/top100/ps/001%20REACTORS%20-%20Two%20Worlds.mp3" class="sm2_link">
+			<span class="top100_artist">REACTORS</span>
+			<span class="top100_title">Two Worlds</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top2">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">2</span>
+		<a id="top2" href="http://78.140.251.40/tmp_audio/top100/ps/002%20MATRIX%20%26%20FUTUREBOUND%2C%20MAX%20MARSHALL%20-%20Fire.mp3" class="sm2_link">
+			<span class="top100_artist">MATRIX & FUTUREBOUND, MAX MARSHALL</span>
+			<span class="top100_title">Fire</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top3">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">3</span>
+		<a id="top3" href="http://78.140.251.40/tmp_audio/top100/ps/003%20FOX%20STEVENSON%2C%20CURBI%20-%20Hoohah.mp3" class="sm2_link">
+			<span class="top100_artist">FOX STEVENSON, CURBI</span>
+			<span class="top100_title">Hoohah</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top4">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">4</span>
+		<a id="top4" href="http://78.140.251.40/tmp_audio/top100/ps/004%20WILKINSON%2C%20KAREN%20HARDING%20-%20Sweet%20Lies.mp3" class="sm2_link">
+			<span class="top100_artist">WILKINSON, KAREN HARDING</span>
+			<span class="top100_title">Sweet Lies</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top5">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">5</span>
+		<a id="top5" href="http://78.140.251.40/tmp_audio/top100/ps/005%20SUBSTAINLESS%20-%20Mash%20Up%20De%20Place.mp3" class="sm2_link">
+			<span class="top100_artist">SUBSTAINLESS</span>
+			<span class="top100_title">Mash Up De Place</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top6">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">6</span>
+		<a id="top6" href="http://78.140.251.40/tmp_audio/top100/ps/006%20CULTURE%20SHOCK%20-%20Pandemic.mp3" class="sm2_link">
+			<span class="top100_artist">CULTURE SHOCK</span>
+			<span class="top100_title">Pandemic</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top7">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">7</span>
+		<a id="top7" href="http://78.140.251.40/tmp_audio/top100/ps/007%20DIMENSION%20-%20Automatik.mp3" class="sm2_link">
+			<span class="top100_artist">DIMENSION</span>
+			<span class="top100_title">Automatik</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top8">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">8</span>
+		<a id="top8" href="http://78.140.251.40/tmp_audio/top100/ps/008%20STUNNAH%20-%20Fantasie%20%28Neonlight%20rmx%29.mp3" class="sm2_link">
+			<span class="top100_artist">STUNNAH</span>
+			<span class="top100_title">Fantasie (Neonlight rmx)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top9">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">9</span>
+		<a id="top9" href="http://78.140.251.40/tmp_audio/top100/ps/009%20TANTRUM%20DESIRE%20-%20Airhead.mp3" class="sm2_link">
+			<span class="top100_artist">TANTRUM DESIRE</span>
+			<span class="top100_title">Airhead</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top10">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">10</span>
+		<a id="top10" href="http://78.140.251.40/tmp_audio/top100/ps/010%20JAYDAN%20-%20Fluff%20Catcher.mp3" class="sm2_link">
+			<span class="top100_artist">JAYDAN</span>
+			<span class="top100_title">Fluff Catcher</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top11">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">11</span>
+		<a id="top11" href="http://78.140.251.40/tmp_audio/top100/ps/011%20PUNKY%20DONCH%20-%20Balang%20Beng%20%28Mystic%20rmx%29.mp3" class="sm2_link">
+			<span class="top100_artist">PUNKY DONCH</span>
+			<span class="top100_title">Balang Beng (Mystic rmx)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top12">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">12</span>
+		<a id="top12" href="http://78.140.251.40/tmp_audio/top100/ps/012%20MEMTRIX%20-%20Ic%20Yr%20Pain.mp3" class="sm2_link">
+			<span class="top100_artist">MEMTRIX</span>
+			<span class="top100_title">Ic Yr Pain</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top13">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">13</span>
+		<a id="top13" href="http://78.140.251.40/tmp_audio/top100/ps/013%20CYANTIFIC%20-%20Back%20Off.mp3" class="sm2_link">
+			<span class="top100_artist">CYANTIFIC</span>
+			<span class="top100_title">Back Off</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top14">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">14</span>
+		<a id="top14" href="http://78.140.251.40/tmp_audio/top100/ps/014%20CULTURE%20SHOCK%20-%20Rush%20Connection.mp3" class="sm2_link">
+			<span class="top100_artist">CULTURE SHOCK</span>
+			<span class="top100_title">Rush Connection</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top15">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">15</span>
+		<a id="top15" href="http://78.140.251.40/tmp_audio/top100/ps/015%20SECOND%20CITY%20-%20I%20Wanna%20Feel%20%28Brookes%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">SECOND CITY</span>
+			<span class="top100_title">I Wanna Feel (Brookes Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top16">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">16</span>
+		<a id="top16" href="http://78.140.251.40/tmp_audio/top100/ps/016%20SIGMA%20-%20Stay%20%28Maduk%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">SIGMA</span>
+			<span class="top100_title">Stay (Maduk Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top17">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">17</span>
+		<a id="top17" href="http://78.140.251.40/tmp_audio/top100/ps/017%20FRICTION%20-%20Kinetic.mp3" class="sm2_link">
+			<span class="top100_artist">FRICTION</span>
+			<span class="top100_title">Kinetic</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top18">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">18</span>
+		<a id="top18" href="http://78.140.251.40/tmp_audio/top100/ps/018%20CHEAT%20CODES%2C%20KRIS%20KROSS%20AMSTERDAM%20-%20Sex%20%28Kwint%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">CHEAT CODES, KRIS KROSS AMSTERDAM</span>
+			<span class="top100_title">Sex (Kwint Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top19">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">19</span>
+		<a id="top19" href="http://78.140.251.40/tmp_audio/top100/ps/019%20MARTIN%20SOLVEIG%20-%20%2B1%20%28Delta%20Heavy%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">MARTIN SOLVEIG</span>
+			<span class="top100_title">+1 (Delta Heavy Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top20">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">20</span>
+		<a id="top20" href="http://78.140.251.40/tmp_audio/top100/ps/020%20DC%20BREAKS%2C%20DAVE%20GIBSON%20-%20Breathe.mp3" class="sm2_link">
+			<span class="top100_artist">DC BREAKS, DAVE GIBSON</span>
+			<span class="top100_title">Breathe</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top21">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">21</span>
+		<a id="top21" href="http://78.140.251.40/tmp_audio/top100/ps/021%20MELANO%20-%20On%20Fire.mp3" class="sm2_link">
+			<span class="top100_artist">MELANO</span>
+			<span class="top100_title">On Fire</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top22">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">22</span>
+		<a id="top22" href="http://78.140.251.40/tmp_audio/top100/ps/022%20FRICTION%2C%20FOURWARD%20-%20Hyperion.mp3" class="sm2_link">
+			<span class="top100_artist">FRICTION, FOURWARD</span>
+			<span class="top100_title">Hyperion</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top23">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">23</span>
+		<a id="top23" href="http://78.140.251.40/tmp_audio/top100/ps/023%20DIMENTION%20-%20Dark%20Lights.mp3" class="sm2_link">
+			<span class="top100_artist">DIMENTION</span>
+			<span class="top100_title">Dark Lights</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top24">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">24</span>
+		<a id="top24" href="http://78.140.251.40/tmp_audio/top100/ps/024%20LEVELA%20-%20Get%20Noisy%20%28Jaydan%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">LEVELA</span>
+			<span class="top100_title">Get Noisy (Jaydan Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top25">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">25</span>
+		<a id="top25" href="http://78.140.251.40/tmp_audio/top100/ps/025%20ED%20RUSH%2C%20OPTICAL%20-%20Angry%20Birds.mp3" class="sm2_link">
+			<span class="top100_artist">ED RUSH, OPTICAL</span>
+			<span class="top100_title">Angry Birds</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top26">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">26</span>
+		<a id="top26" href="http://78.140.251.40/tmp_audio/top100/ps/026%20APERIO%2C%20AURALAIS%20-%20Intentions.mp3" class="sm2_link">
+			<span class="top100_artist">APERIO, AURALAIS</span>
+			<span class="top100_title">Intentions</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top27">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">27</span>
+		<a id="top27" href="http://78.140.251.40/tmp_audio/top100/ps/027%20DOCUMENT%20ONE%20-%20Small%20Steps.mp3" class="sm2_link">
+			<span class="top100_artist">DOCUMENT ONE</span>
+			<span class="top100_title">Small Steps</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top28">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">28</span>
+		<a id="top28" href="http://78.140.251.40/tmp_audio/top100/ps/028%20DAVID%20ZOWIE%20-%20House%20Every%20Weekend%20%28Loadstar%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">DAVID ZOWIE</span>
+			<span class="top100_title">House Every Weekend (Loadstar Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top29">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">29</span>
+		<a id="top29" href="http://78.140.251.40/tmp_audio/top100/ps/029%20DISPROVE%20-%20Frqncs.mp3" class="sm2_link">
+			<span class="top100_artist">DISPROVE</span>
+			<span class="top100_title">Frqncs</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top30">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">30</span>
+		<a id="top30" href="http://78.140.251.40/tmp_audio/top100/ps/030%20DRUMSOUND%20-%20Memories.mp3" class="sm2_link">
+			<span class="top100_artist">DRUMSOUND</span>
+			<span class="top100_title">Memories</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top31">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">31</span>
+		<a id="top31" href="http://78.140.251.40/tmp_audio/top100/ps/031%20T%2C%20SUGAH%20-%20Higher.mp3" class="sm2_link">
+			<span class="top100_artist">T, SUGAH</span>
+			<span class="top100_title">Higher</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top32">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">32</span>
+		<a id="top32" href="http://78.140.251.40/tmp_audio/top100/ps/032%20FEN-X%20-%20Spirit%20Up.mp3" class="sm2_link">
+			<span class="top100_artist">FEN-X</span>
+			<span class="top100_title">Spirit Up</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top33">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">33</span>
+		<a id="top33" href="http://78.140.251.40/tmp_audio/top100/ps/033%20MIKEFREEDOM%20-%20Rise%2C%20Fall.mp3" class="sm2_link">
+			<span class="top100_artist">MIKEFREEDOM</span>
+			<span class="top100_title">Rise, Fall</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top34">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">34</span>
+		<a id="top34" href="http://78.140.251.40/tmp_audio/top100/ps/034%20KRONOLOGY%2C%20DIVINE%20ELEMENTS%20-%20Submerge.mp3" class="sm2_link">
+			<span class="top100_artist">KRONOLOGY, DIVINE ELEMENTS</span>
+			<span class="top100_title">Submerge</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top35">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">35</span>
+		<a id="top35" href="http://78.140.251.40/tmp_audio/top100/ps/035%20FORMAT-B%20-%20Chunky%20%28Prototypes%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">FORMAT-B</span>
+			<span class="top100_title">Chunky (Prototypes Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top36">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">36</span>
+		<a id="top36" href="http://78.140.251.40/tmp_audio/top100/ps/036%20EMPEROR%20-%20From%20Ashes.mp3" class="sm2_link">
+			<span class="top100_artist">EMPEROR</span>
+			<span class="top100_title">From Ashes</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top37">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">37</span>
+		<a id="top37" href="http://78.140.251.40/tmp_audio/top100/ps/037%20COMMAND%20STRANGE%2C%20ARTIFICIAL%20INTELLIGENCE%2C%20JAMAKABI%20-%20Dismiss.mp3" class="sm2_link">
+			<span class="top100_artist">COMMAND STRANGE, ARTIFICIAL INTELLIGENCE, JAMAKABI</span>
+			<span class="top100_title">Dismiss</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top38">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">38</span>
+		<a id="top38" href="http://78.140.251.40/tmp_audio/top100/ps/038%20OPTIV%2C%20BTK%20-%20Insight%20%28Segment%2C%20Concept%20Vision%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">OPTIV, BTK</span>
+			<span class="top100_title">Insight (Segment, Concept Vision Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top39">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">39</span>
+		<a id="top39" href="http://78.140.251.40/tmp_audio/top100/ps/039%20MUZZY%2C%20UK%20ID%20-%20Play.mp3" class="sm2_link">
+			<span class="top100_artist">MUZZY, UK ID</span>
+			<span class="top100_title">Play</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top40">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">40</span>
+		<a id="top40" href="http://78.140.251.40/tmp_audio/top100/ps/040%20SEISMIX%20-%20Reload.mp3" class="sm2_link">
+			<span class="top100_artist">SEISMIX</span>
+			<span class="top100_title">Reload</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top41">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">41</span>
+		<a id="top41" href="http://78.140.251.40/tmp_audio/top100/ps/041%20DATR3NDZ%20-%20All%20It%20Takes.mp3" class="sm2_link">
+			<span class="top100_artist">DATR3NDZ</span>
+			<span class="top100_title">All It Takes</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top42">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">42</span>
+		<a id="top42" href="http://78.140.251.40/tmp_audio/top100/ps/042%20OCTANE%20-%20Murmur%20%28Break%2C%20Dlr%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">OCTANE</span>
+			<span class="top100_title">Murmur (Break, Dlr Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top43">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">43</span>
+		<a id="top43" href="http://78.140.251.40/tmp_audio/top100/ps/043%20CYANTIFIC%20-%20Outatime.mp3" class="sm2_link">
+			<span class="top100_artist">CYANTIFIC</span>
+			<span class="top100_title">Outatime</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top44">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">44</span>
+		<a id="top44" href="http://78.140.251.40/tmp_audio/top100/ps/044%20ANNIX%20-%20What%20You%20Know.mp3" class="sm2_link">
+			<span class="top100_artist">ANNIX</span>
+			<span class="top100_title">What You Know</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top45">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">45</span>
+		<a id="top45" href="http://78.140.251.40/tmp_audio/top100/ps/045%20PACSO%20-%20Trick%20%28Turno%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">PACSO</span>
+			<span class="top100_title">Trick (Turno Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top46">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">46</span>
+		<a id="top46" href="http://78.140.251.40/tmp_audio/top100/ps/046%20AGRESSOR%20BUNX%20-%20Order.mp3" class="sm2_link">
+			<span class="top100_artist">AGRESSOR BUNX</span>
+			<span class="top100_title">Order</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top47">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">47</span>
+		<a id="top47" href="http://78.140.251.40/tmp_audio/top100/ps/047%20L-SIDE%20-%20Dreadlocks.mp3" class="sm2_link">
+			<span class="top100_artist">L-SIDE</span>
+			<span class="top100_title">Dreadlocks</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top48">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">48</span>
+		<a id="top48" href="http://78.140.251.40/tmp_audio/top100/ps/048%20RAW%20THEORY%20-%20Eye%20Of%20The%20Storm.mp3" class="sm2_link">
+			<span class="top100_artist">RAW THEORY</span>
+			<span class="top100_title">Eye Of The Storm</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top49">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">49</span>
+		<a id="top49" href="http://78.140.251.40/tmp_audio/top100/ps/049%20INERTIA%20-%20Backbreaker.mp3" class="sm2_link">
+			<span class="top100_artist">INERTIA</span>
+			<span class="top100_title">Backbreaker</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top50">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">50</span>
+		<a id="top50" href="http://78.140.251.40/tmp_audio/top100/ps/050%20MOB%20TACTICS%20-%20Shark%20Tank.mp3" class="sm2_link">
+			<span class="top100_artist">MOB TACTICS</span>
+			<span class="top100_title">Shark Tank</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top51">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">51</span>
+		<a id="top51" href="http://78.140.251.40/tmp_audio/top100/ps/051%20DOCUMENT%20ONE%20-%20Run%20The%20Block.mp3" class="sm2_link">
+			<span class="top100_artist">DOCUMENT ONE</span>
+			<span class="top100_title">Run The Block</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top52">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">52</span>
+		<a id="top52" href="http://78.140.251.40/tmp_audio/top100/ps/052%20CONCEPT%20VISION%2C%20SEGMENT%20-%20Executed.mp3" class="sm2_link">
+			<span class="top100_artist">CONCEPT VISION, SEGMENT</span>
+			<span class="top100_title">Executed</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top53">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">53</span>
+		<a id="top53" href="http://78.140.251.40/tmp_audio/top100/ps/053%20KASKADE%2C%20CID%20-%20Us%20%28Delta%20Heavy%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">KASKADE, CID</span>
+			<span class="top100_title">Us (Delta Heavy Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top54">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">54</span>
+		<a id="top54" href="http://78.140.251.40/tmp_audio/top100/ps/054%20NU-DIRECTION%20-%20Taking%20Over.mp3" class="sm2_link">
+			<span class="top100_artist">NU-DIRECTION</span>
+			<span class="top100_title">Taking Over</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top55">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">55</span>
+		<a id="top55" href="http://78.140.251.40/tmp_audio/top100/ps/055%20DIMENSION%20-%20Panzer.mp3" class="sm2_link">
+			<span class="top100_artist">DIMENSION</span>
+			<span class="top100_title">Panzer</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top56">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">56</span>
+		<a id="top56" href="http://78.140.251.40/tmp_audio/top100/ps/056%20CHRISSU%2C%20KRYPTOMEDIC%20-%20Underground%20Culture.mp3" class="sm2_link">
+			<span class="top100_artist">CHRISSU, KRYPTOMEDIC</span>
+			<span class="top100_title">Underground Culture</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top57">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">57</span>
+		<a id="top57" href="http://78.140.251.40/tmp_audio/top100/ps/057%20BLACK%20TIGER%20SEX%20MACHINE%20-%20Religion%20%28Muzzy%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">BLACK TIGER SEX MACHINE</span>
+			<span class="top100_title">Religion (Muzzy Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top58">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">58</span>
+		<a id="top58" href="http://78.140.251.40/tmp_audio/top100/ps/058%20BARO%20-%20Inquisitor%20%28Twisted%20Elements%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">BARO</span>
+			<span class="top100_title">Inquisitor (Twisted Elements Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top59">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">59</span>
+		<a id="top59" href="http://78.140.251.40/tmp_audio/top100/ps/059%20MARTIN%20SOLVEIG%20-%20Intoxicated%20%28DJ%20Fresh%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">MARTIN SOLVEIG</span>
+			<span class="top100_title">Intoxicated (DJ Fresh Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top60">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">60</span>
+		<a id="top60" href="http://78.140.251.40/tmp_audio/top100/ps/060%20DISPROVE%20-%20Call%20The%20Shots.mp3" class="sm2_link">
+			<span class="top100_artist">DISPROVE</span>
+			<span class="top100_title">Call The Shots</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top61">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">61</span>
+		<a id="top61" href="http://78.140.251.40/tmp_audio/top100/ps/061%20CONSCIENCE%20-%20U%20Make%20Me%20Feel%20%28Hlz%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">CONSCIENCE</span>
+			<span class="top100_title">U Make Me Feel (Hlz Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top62">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">62</span>
+		<a id="top62" href="http://78.140.251.40/tmp_audio/top100/ps/062%20T-PHONIC%20-%20Cinematic.mp3" class="sm2_link">
+			<span class="top100_artist">T-PHONIC</span>
+			<span class="top100_title">Cinematic</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top63">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">63</span>
+		<a id="top63" href="http://78.140.251.40/tmp_audio/top100/ps/063%20CULTURE%20SHOCK%2C%20JOSH%20PARKINSON%20-%20No%20More.mp3" class="sm2_link">
+			<span class="top100_artist">CULTURE SHOCK, JOSH PARKINSON</span>
+			<span class="top100_title">No More</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top64">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">64</span>
+		<a id="top64" href="http://78.140.251.40/tmp_audio/top100/ps/064%20EKKO%2C%20SIDETRACK%20-%20Alone%20Without%20You.mp3" class="sm2_link">
+			<span class="top100_artist">EKKO, SIDETRACK</span>
+			<span class="top100_title">Alone Without You</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top65">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">65</span>
+		<a id="top65" href="http://78.140.251.40/tmp_audio/top100/ps/065%20BOTNEK%2C%20I%20SEE%20MONSTAS%20-%20Deeper%20Love%20%28Stonebank%20Remix%29.mp3" class="sm2_link">
+			<span class="top100_artist">BOTNEK, I SEE MONSTAS</span>
+			<span class="top100_title">Deeper Love (Stonebank Remix)</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top66">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">66</span>
+		<a id="top66" href="http://78.140.251.40/tmp_audio/top100/ps/066%20NOISIA%20-%20Incessant.mp3" class="sm2_link">
+			<span class="top100_artist">NOISIA</span>
+			<span class="top100_title">Incessant</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top67">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">67</span>
+		<a id="top67" href="http://78.140.251.40/tmp_audio/top100/ps/067%20KASGER%20-%20Highland.mp3" class="sm2_link">
+			<span class="top100_artist">KASGER</span>
+			<span class="top100_title">Highland</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top68">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">68</span>
+		<a id="top68" href="http://78.140.251.40/tmp_audio/top100/ps/068%20NYMFO%2C%20DLR%20-%20Affliction.mp3" class="sm2_link">
+			<span class="top100_artist">NYMFO, DLR</span>
+			<span class="top100_title">Affliction</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top69">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">69</span>
+		<a id="top69" href="http://78.140.251.40/tmp_audio/top100/ps/069%20ONEBYONE%20-%20I%20Wanna%20Feel.mp3" class="sm2_link">
+			<span class="top100_artist">ONEBYONE</span>
+			<span class="top100_title">I Wanna Feel</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top70">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">70</span>
+		<a id="top70" href="http://78.140.251.40/tmp_audio/top100/ps/070%20SMOOTH%20-%20Let%20It%20Roll.mp3" class="sm2_link">
+			<span class="top100_artist">SMOOTH</span>
+			<span class="top100_title">Let It Roll</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top71">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">71</span>
+		<a id="top71" href="http://78.140.251.40/tmp_audio/top100/ps/071%20AMC%20-%20Shade.mp3" class="sm2_link">
+			<span class="top100_artist">AMC</span>
+			<span class="top100_title">Shade</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top72">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">72</span>
+		<a id="top72" href="http://78.140.251.40/tmp_audio/top100/ps/072%20COMMAND%20STRANGE%2C%20MC%20FATS%20-%20Desire.mp3" class="sm2_link">
+			<span class="top100_artist">COMMAND STRANGE, MC FATS</span>
+			<span class="top100_title">Desire</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top73">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">73</span>
+		<a id="top73" href="http://78.140.251.40/tmp_audio/top100/ps/073%20CLAMPS%20-%20Social%20Disorder.mp3" class="sm2_link">
+			<span class="top100_artist">CLAMPS</span>
+			<span class="top100_title">Social Disorder</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top74">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">74</span>
+		<a id="top74" href="http://78.140.251.40/tmp_audio/top100/ps/074%20SURVEY%20-%20You%20Wonder.mp3" class="sm2_link">
+			<span class="top100_artist">SURVEY</span>
+			<span class="top100_title">You Wonder</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top75">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">75</span>
+		<a id="top75" href="http://78.140.251.40/tmp_audio/top100/ps/075%20TELEKINESIS%20-%20Shut%20Up.mp3" class="sm2_link">
+			<span class="top100_artist">TELEKINESIS</span>
+			<span class="top100_title">Shut Up</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top76">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">76</span>
+		<a id="top76" href="http://78.140.251.40/tmp_audio/top100/ps/076%20EMPEROR%20-%20Haste.mp3" class="sm2_link">
+			<span class="top100_artist">EMPEROR</span>
+			<span class="top100_title">Haste</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top77">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">77</span>
+		<a id="top77" href="http://78.140.251.40/tmp_audio/top100/ps/077%20NETSKY%2C%20METRIK%2C%20STEALTH%20-%20Can%27t%20Speak.mp3" class="sm2_link">
+			<span class="top100_artist">NETSKY, METRIK, STEALTH</span>
+			<span class="top100_title">Can't Speak</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top78">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">78</span>
+		<a id="top78" href="http://78.140.251.40/tmp_audio/top100/ps/078%20XILENT%2C%20DIAMOND%20EYES%20-%20Animation.mp3" class="sm2_link">
+			<span class="top100_artist">XILENT, DIAMOND EYES</span>
+			<span class="top100_title">Animation</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top79">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">79</span>
+		<a id="top79" href="http://78.140.251.40/tmp_audio/top100/ps/079%20NEONLIGHT%20-%20Queen%20Beth%20V.mp3" class="sm2_link">
+			<span class="top100_artist">NEONLIGHT</span>
+			<span class="top100_title">Queen Beth V</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top80">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">80</span>
+		<a id="top80" href="http://78.140.251.40/tmp_audio/top100/ps/080%20PROTOTYPES%2C%20MAD%20HED%20CITY%20-%20Pop%20It%20Off.mp3" class="sm2_link">
+			<span class="top100_artist">PROTOTYPES, MAD HED CITY</span>
+			<span class="top100_title">Pop It Off</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top81">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">81</span>
+		<a id="top81" href="http://78.140.251.40/tmp_audio/top100/ps/081%20ED%20RUSH%2C%20OPTICAL%2C%20RYME%20TYME%20-%20No%20Cure.mp3" class="sm2_link">
+			<span class="top100_artist">ED RUSH, OPTICAL, RYME TYME</span>
+			<span class="top100_title">No Cure</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top82">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">82</span>
+		<a id="top82" href="http://78.140.251.40/tmp_audio/top100/ps/082%20BMOTION%20-%20Arabia.mp3" class="sm2_link">
+			<span class="top100_artist">BMOTION</span>
+			<span class="top100_title">Arabia</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top83">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">83</span>
+		<a id="top83" href="http://78.140.251.40/tmp_audio/top100/ps/083%20KILLER%20HERTZ%20-%20All%20Out.mp3" class="sm2_link">
+			<span class="top100_artist">KILLER HERTZ</span>
+			<span class="top100_title">All Out</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top84">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">84</span>
+		<a id="top84" href="http://78.140.251.40/tmp_audio/top100/ps/084%20CURRENT%20VALUE%2C%20PHACE%20-%20Thump.mp3" class="sm2_link">
+			<span class="top100_artist">CURRENT VALUE, PHACE</span>
+			<span class="top100_title">Thump</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top85">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">85</span>
+		<a id="top85" href="http://78.140.251.40/tmp_audio/top100/ps/085%20COD3X%20-%20Beat%20Cannon.mp3" class="sm2_link">
+			<span class="top100_artist">COD3X</span>
+			<span class="top100_title">Beat Cannon</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top86">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">86</span>
+		<a id="top86" href="http://78.140.251.40/tmp_audio/top100/ps/086%20MEFJUS%20-%20Blitz.mp3" class="sm2_link">
+			<span class="top100_artist">MEFJUS</span>
+			<span class="top100_title">Blitz</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top87">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">87</span>
+		<a id="top87" href="http://78.140.251.40/tmp_audio/top100/ps/087%20HAMILTON%20-%20Feel%20The%20Fury.mp3" class="sm2_link">
+			<span class="top100_artist">HAMILTON</span>
+			<span class="top100_title">Feel The Fury</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top88">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">88</span>
+		<a id="top88" href="http://78.140.251.40/tmp_audio/top100/ps/088%20MOB%20TACTICS%20-%20Wolf%20Trap.mp3" class="sm2_link">
+			<span class="top100_artist">MOB TACTICS</span>
+			<span class="top100_title">Wolf Trap</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top89">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">89</span>
+		<a id="top89" href="http://78.140.251.40/tmp_audio/top100/ps/089%20NOISIA%2C%20MEFJUS%2C%20HYBRIS%20-%20Reptilians.mp3" class="sm2_link">
+			<span class="top100_artist">NOISIA, MEFJUS, HYBRIS</span>
+			<span class="top100_title">Reptilians</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top90">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">90</span>
+		<a id="top90" href="http://78.140.251.40/tmp_audio/top100/ps/090%20BUSTRE%20-%20Combine.mp3" class="sm2_link">
+			<span class="top100_artist">BUSTRE</span>
+			<span class="top100_title">Combine</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top91">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">91</span>
+		<a id="top91" href="http://78.140.251.40/tmp_audio/top100/ps/091%20CALYX%20-%20Day%20That%20Never%20Comes.mp3" class="sm2_link">
+			<span class="top100_artist">CALYX</span>
+			<span class="top100_title">Day That Never Comes</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top92">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">92</span>
+		<a id="top92" href="http://78.140.251.40/tmp_audio/top100/ps/092%20SIX%20BLADE%20-%20Lightbox.mp3" class="sm2_link">
+			<span class="top100_artist">SIX BLADE</span>
+			<span class="top100_title">Lightbox</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top93">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">93</span>
+		<a id="top93" href="http://78.140.251.40/tmp_audio/top100/ps/093%20JOHN%20B%20-%20Lie%20To%20Me.mp3" class="sm2_link">
+			<span class="top100_artist">JOHN B</span>
+			<span class="top100_title">Lie To Me</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top94">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">94</span>
+		<a id="top94" href="http://78.140.251.40/tmp_audio/top100/ps/094%20COMMAND%20STRANGE%2C%20TRAC%20-%20Black%2C%20White.mp3" class="sm2_link">
+			<span class="top100_artist">COMMAND STRANGE, TRAC</span>
+			<span class="top100_title">Black, White</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top95">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">95</span>
+		<a id="top95" href="http://78.140.251.40/tmp_audio/top100/ps/095%20MUZZY%20-%20Children%20Of%20Hell.mp3" class="sm2_link">
+			<span class="top100_artist">MUZZY</span>
+			<span class="top100_title">Children Of Hell</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top96">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">96</span>
+		<a id="top96" href="http://78.140.251.40/tmp_audio/top100/ps/096%20BLACK%20SUN%20EMPIRE%20-%20Until%20The%20World%20Ends.mp3" class="sm2_link">
+			<span class="top100_artist">BLACK SUN EMPIRE</span>
+			<span class="top100_title">Until The World Ends</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top97">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">97</span>
+		<a id="top97" href="http://78.140.251.40/tmp_audio/top100/ps/097%20AGRESSOR%20BUNX%20-%20Infinity.mp3" class="sm2_link">
+			<span class="top100_artist">AGRESSOR BUNX</span>
+			<span class="top100_title">Infinity</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top98">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">98</span>
+		<a id="top98" href="http://78.140.251.40/tmp_audio/top100/ps/098%20SILENT%20FREQUENCIES%2C%20FEN-X%20-%20Nomad.mp3" class="sm2_link">
+			<span class="top100_artist">SILENT FREQUENCIES, FEN-X</span>
+			<span class="top100_title">Nomad</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top99">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">99</span>
+		<a id="top99" href="http://78.140.251.40/tmp_audio/top100/ps/099%20SIGMA%2C%20LABRINTH%20-%20Higher.mp3" class="sm2_link">
+			<span class="top100_artist">SIGMA, LABRINTH</span>
+			<span class="top100_title">Higher</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>
+
+<div class="top100_media" mid="top100">
+	<div class="histogram_back_load"></div>
+	<div class="histogram_back"></div>
+	<div class="histogram_top"></div>
+	<div class="text_info">
+		<span class="top100_pos">100</span>
+		<a id="top100" href="http://78.140.251.40/tmp_audio/top100/ps/100%20DRUMSOUND%2C%20BASSLINE%20SMITH%20-%20Truth.mp3" class="sm2_link">
+			<span class="top100_artist">DRUMSOUND, BASSLINE SMITH</span>
+			<span class="top100_title">Truth</span>
+		</a>
+	</div>
+	<div class="nowseconds"></div>
+	<div class="histogram_clickable"></div>
+</div>

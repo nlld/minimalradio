@@ -1,0 +1,9 @@
+@font-face {
+    font-family: skyfall;
+    src: url(fonts/skyfall.ttf);
+}
+
+html {
+
+	font-family: skyfall;
+}

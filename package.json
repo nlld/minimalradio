@@ -1,17 +1,16 @@
 {
-  "name": "electron-quick-start",
+  "name": "radio_for_windows10beta",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal desktop radio application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/nlld/minimalradio",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
+    "radio",
+    "electron",
+    "beta",
     "demo"
   ],
   "author": "GitHub",
